@@ -144,4 +144,5 @@ Me chamo Joao Vitor da Silva Rodrigues, tenho 18 anos e sou natural de Sao Paulo
 
 </p>
 
+[![JotaVSRodrigues GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues)](https://github.com/JotaVSRodrigues/github-readme-stats)
 
