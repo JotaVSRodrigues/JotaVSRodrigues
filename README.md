@@ -16,4 +16,7 @@ Me chamo João Vitor da Silva Rodrigues, tenho 18 anos e sou natural de São Pau
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jotavsrodrigues)](https://github.com/jotavsrodrigues/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues)](https://github.com/JotaVSRodrigues/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues&commits_year=2026)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues&show_icons=true&theme=tokyonight)
