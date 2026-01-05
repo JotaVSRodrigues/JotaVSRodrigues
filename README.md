@@ -11,11 +11,21 @@ Me chamo João Vitor da Silva Rodrigues, tenho 18 anos e sou natural de São Pau
 
 ---
 
-# Estatísticas do GitHub
-div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavsrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavsrodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotavsrodrigues&theme=tokyonight" alt="GitHub Streak"/>
-</div>
+# 📊 Estatísticas do GitHub
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
