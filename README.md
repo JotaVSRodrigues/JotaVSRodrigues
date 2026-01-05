@@ -16,3 +16,4 @@ Me chamo João Vitor da Silva Rodrigues, tenho 18 anos e sou natural de São Pau
 
 </div>
 
+(https://github-readme-stats.vercel.app/api?username=jotavsrodrigues)](https://github.com/jotavsrodrigues/github-readme-stats)
