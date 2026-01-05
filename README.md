@@ -12,11 +12,10 @@ Me chamo João Vitor da Silva Rodrigues, tenho 18 anos e sou natural de São Pau
 ---
 
 # Estatísticas do GitHub
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JotaVSRodrigues&layout=compact&langs_count=7&theme=tokyonight"/> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=JotaVSRodrigues&theme=tokyonight" alt="GitHub Streak"/> </div> <div align="center">
-
+div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavsrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavsrodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues)](https://github.com/JotaVSRodrigues/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues&commits_year=2026)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JotaVSRodrigues&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jotavsrodrigues&theme=tokyonight" alt="GitHub Streak"/>
+</div>
