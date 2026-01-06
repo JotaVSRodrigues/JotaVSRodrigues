@@ -13,7 +13,7 @@ Me chamo João Vitor da Silva Rodrigues, tenho 18 anos e sou natural de São Pau
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jotavsrodrigues&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jotavsrodrigues&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=jotavsrodrigues&theme=tokyonight"/>
