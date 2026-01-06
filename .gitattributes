@@ -1,0 +1,11 @@
+# Ignorar código gerado
+target/** linguist-generated=true
+dist/** linguist-generated=true
+build/** linguist-generated=true
+node_modules/** linguist-generated=true
+
+# Ignorar configs e dados
+*.json linguist-detectable=false
+*.yml linguist-detectable=false
+*.yaml linguist-detectable=false
+*.md linguist-detectable=false
