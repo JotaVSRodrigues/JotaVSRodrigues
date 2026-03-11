@@ -33,8 +33,8 @@ Me chamo **João Vitor da Silva Rodrigues**, tenho 18 anos e sou natural de São
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jotavsrodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jotavsrodrigues&layout=compact&langs_count=10&hide_border=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavsrodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotavsrodrigues&layout=compact&langs_count=10&hide_border=true&theme=radical"/>
 </div>
 
 <div align="center">
@@ -52,11 +52,10 @@ Me chamo **João Vitor da Silva Rodrigues**, tenho 18 anos e sou natural de São
 ## 📬 Contato
 
 <div align="center">
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/jotavsrodrigues/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:joao.rdg119@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigues-709179299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-FF0080?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/jotavsrodrigues" target="_blank"><img src="https://img.shields.io/badge/GitHub-FF8C00?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
-
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:FF8C00&height=120&section=footer"/>
