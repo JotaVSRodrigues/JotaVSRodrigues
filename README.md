@@ -10,7 +10,7 @@ Me chamo **João Vitor da Silva Rodrigues**, tenho 18 anos e sou natural de São
 
 ---
 
-## 🚀 Linguagens e Tecnologias
+## Linguagens e Tecnologias
 
 <div align="center">
 
@@ -30,7 +30,7 @@ Me chamo **João Vitor da Silva Rodrigues**, tenho 18 anos e sou natural de São
 
 ---
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavsrodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -43,13 +43,7 @@ Me chamo **João Vitor da Silva Rodrigues**, tenho 18 anos e sou natural de São
 
 ---
 
-## 🐍 Contribuições
-
-![Snake animation Contribution Graph](https://raw.githubusercontent.com/jotavsrodrigues/jotavsrodrigues/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## 📬 Contato
+## Contato
 
 <div align="center">
   <a href="mailto:joao.rdg119@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
