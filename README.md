@@ -10,37 +10,6 @@ Me chamo **João Vitor da Silva Rodrigues**, tenho 18 anos e sou natural de São
 
 ---
 
-## Linguagens e Tecnologias
-
-<div align="center">
-
-<img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
-<img align="center" alt="Spring Boot" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"/>
-<img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-<img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-<img align="center" alt="PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>
-<img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="center" alt="Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>
-<img align="center" alt="AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
-<img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>
-<img align="center" alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>
-
-</div>
-
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotavsrodrigues&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=jotavsrodrigues&theme=radical&hide_border=true"/>
-</div>
-
----
-
 ## Contato
 
 <div align="center">
