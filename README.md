@@ -18,6 +18,7 @@ Me chamo **João Vitor da Silva Rodrigues**, tenho 18 anos e sou natural de São
 
 <h2>📈 Atividade</h2>
 <div align="center"> <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=JotaVSRodrigues&theme=react-dark&hide_border=true&bg_color=0d1117" alt="Gráfico de atividade" /></div>
+https://github-used-languages.vercel.app/JotaVSRodrigues
 <br>
 
 ## 📞 Contato
